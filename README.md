@@ -2,5 +2,4 @@
 
 - 🔭 I’m currently working in Neoflex
 - 🌱 I’m currently learning Reactive & Kafka
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: From time to time I talk to a toy duck on my desk to solve a particular problem
